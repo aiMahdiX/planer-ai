@@ -1,0 +1,6 @@
+{
+  "name": "Smart Planner AI",
+  "description": "An AI-powered smart task manager and planner that optimizes task prioritization using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
